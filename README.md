@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/496881cf-e8f6-4f53-8090-8fa17d4db2fc" alt="logo-repositorio" height="100" widht="100" /></center>
+<p align="center"> <img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/496881cf-e8f6-4f53-8090-8fa17d4db2fc" alt="logo-repositorio" height="80" widht="80" /></center>
 
 <h1 align="center"> Project HTML5 and CSS3 Basics </h1>
 
