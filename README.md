@@ -2,8 +2,8 @@
 
 <h1 align="center"> Project HTML5 and CSS3 Basics </h1>
 
-<p align="center"> Esse projeto foi desenvolvido no curso <a href="https://www.udemy.com/course/desenvolvedor-web-front-end-completo-html-css-javascript-vue-js-e-git/" target: _blank> Desenvolvedor Web Completo - Criado por: Ivan Lourenço Gomes </a> com as seguintes tecnologias: <strong> HTML5 e CSS3 </strong></center>
+<p align="center"> Esse projeto foi desenvolvido no curso <a href="https://www.udemy.com/course/desenvolvedor-web-front-end-completo-html-css-javascript-vue-js-e-git/" target: _blank> Desenvolvedor Web Completo </a> - Criado por: Ivan Lourenço Gomes, com as seguintes tecnologias: <strong> HTML5 e CSS3 </strong></center>
 
 
-<p align="center"><a href="https://tqi-challenge-menu.vercel.app/" target="_blank">Clique aqui para visualizar o projeto</a></center>
+<p align="center"><a href="https://project-html-css-basics.vercel.app/" target="_blank">Clique aqui para visualizar o projeto</a></center>
 
