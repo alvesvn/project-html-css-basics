@@ -7,3 +7,4 @@
 
 <p align="center"><a href="https://project-html-css-basics.vercel.app/" target="_blank">Clique aqui para visualizar o projeto</a></center>
 
+<p align="center"> <img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/fe60b779-0ddb-4527-8a34-10e728ccdb83" alt="logo-projeto" height="500" widht="500" /></center>
