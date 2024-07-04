@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
-## Web Pages
+## Web Page
 - <a href="https://project-html-css-basics.vercel.app/" target="_blank">Project-html-css-basics.</a>
 
 
