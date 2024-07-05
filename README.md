@@ -12,10 +12,10 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 
 ## Functionalities
 
-- Estrutura básica de uma página web
-- Uso de tags semânticas do HTML5
-- Aplicação de estilos CSS para formatação do layout
-- Inclusão de fontes e cores personalizadas
+- Estrutura básica de uma página web.
+- Uso de tags semânticas do HTML5.
+- Aplicação de estilos CSS para formatação do layout.
+- Inclusão de fontes e cores personalizadas.
 
 ## Web Page
 - <a href="https://project-html-css-basics.vercel.app/" target="_blank">Project-html-css-basics.</a>
