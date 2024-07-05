@@ -17,7 +17,7 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
 
-## Web Page
+## Visit the web page
 - <a href="https://project-html-css-basics.vercel.app/" target="_blank">Project-html-css-basics.</a>
 
 
