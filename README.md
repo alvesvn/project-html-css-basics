@@ -18,7 +18,7 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 - Inclusão de fontes e cores personalizadas.
 
 ## Visit the web page
-- <a href="https://project-html-css-basics.vercel.app/" target="_blank">Project-html-css-basics.</a>
+- <a href="https://project-html-css-basics.vercel.app/" target="_blank">My first web page.</a>
 
 
 
