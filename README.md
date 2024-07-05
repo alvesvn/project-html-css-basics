@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/496881cf-e8f6-4f53-8090-8fa17d4db2fc" alt="logo-repositorio" height="50" widht="50" /></h1> 
 <p align="center">Web page desenvolvida no <b>Curso Desenvolvimento Web Completo - Udemy by: Ivan Lourenço Gomes.</b></p>
-<p align="center"> Este é um projeto simples desenvolvido para iniciar meus estudos em tecnologia, utilizando as linguagens HTML e CSS. </p>
+<p align="center"> Projeto simples desenvolvido para iniciar meus estudos em tecnologia, utilizando as linguagens HTML e CSS. </p>
 
 
 
