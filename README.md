@@ -20,6 +20,6 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 ## Visit the web page
 - Getting started with HTML & CSS.
   
-  <a href="https://project-html-css-basics.vercel.app/"><img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/8991e35f-4875-4775-8462-03d27af4ce80" alt="logo-repositorio"/></a>
+  <a href="https://project-html-css-basics.vercel.app/" target="blank"><img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/8991e35f-4875-4775-8462-03d27af4ce80" alt="logo-repositorio"/></a>
 
 
