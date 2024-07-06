@@ -20,5 +20,6 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 ## Visit the web page
 - <a href="https://project-html-css-basics.vercel.app/" target="_blank">My first web page.</a>
 
+  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="logo-repositorio"/></a>
 
 
