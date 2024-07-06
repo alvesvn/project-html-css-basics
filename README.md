@@ -18,8 +18,8 @@ O objetivo principal é praticar e consolidar os conhecimentos adquiridos, crian
 - Inclusão de fontes e cores personalizadas.
 
 ## Visit the web page
-- <a href="https://project-html-css-basics.vercel.app/" target="_blank">My first web page.</a>
-
-  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="logo-repositorio"/></a>
+- Getting started with HTML & CSS.
+  
+  <a href="https://project-html-css-basics.vercel.app/"><img src="https://github.com/alvesvn/project-html-css-basics/assets/96539606/8991e35f-4875-4775-8462-03d27af4ce80" alt="logo-repositorio"/></a>
 
 
